@@ -119,6 +119,8 @@ p {
 
 .profile-img {
   border-radius: 50%;
+  width: 400px;
+  height: 300px;
 }
 
 .normal {
